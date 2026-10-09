@@ -1,0 +1,57 @@
+Date,Customer No,Customer Name,Entry Time,Exit Time,Service,Amount (BDT),Employee,Commission (BDT),Duration (min)
+2026-10-03,Customer 1,Rubina,10:47,11:41,Manicure,800,Nusrat Jahan,16.0,54
+2026-10-03,Customer 2,Bithi,11:24,12:14,Pedicure,1000,Rima Khatun,20.0,50
+2026-10-03,Customer 3,Lucky,12:11,,Hair Color,2050,Nusrat Jahan,41.0,
+2026-10-03,Customer 4,Tithi,13:10,,Threading,170,Tania Rahman,3.4,
+2026-10-03,Customer 5,,13:52,15:17,Hair Spa,2500,Tania Rahman,50.0,85
+2026-10-03,Customer 6,Mousumi,14:47,15:40,Waxing,1250,Nusrat Jahan,25.0,53
+2026-10-03,Customer 7,,15:34,16:42,Slimming Massage,2100,Nusrat Jahan,42.0,68
+2026-10-03,Customer 8,Shirin,16:17,,Hair Spa,2600,Nusrat Jahan,52.0,
+2026-10-03,Customer 9,Farhana,17:26,17:37,Threading,140,Tania Rahman,2.8,11
+2026-10-04,Customer 1,,10:57,11:34,Haircut,550,Tania Rahman,11.0,37
+2026-10-04,Customer 2,,11:59,12:28,Threading,150,Nusrat Jahan,3.0,29
+2026-10-04,Customer 3,,12:34,14:18,Hair Spa,3000,Tania Rahman,60.0,104
+2026-10-04,Customer 4,Ritu,13:20,14:00,Waxing,650,Nusrat Jahan,13.0,40
+2026-10-04,Customer 5,,13:59,14:56,Facial,950,Nusrat Jahan,19.0,57
+2026-10-04,Customer 6,Tithi,15:01,16:34,Hair Spa,2750,Rima Khatun,55.0,93
+2026-10-04,Customer 7,,16:01,16:42,Haircut,450,Sumaiya Akter,9.0,41
+2026-10-04,Customer 8,Jannat,17:08,18:22,Slimming Massage,2100,Tania Rahman,42.0,74
+2026-10-05,Customer 1,,10:39,,Pedicure,600,Nusrat Jahan,12.0,
+2026-10-05,Customer 2,Moni,11:31,11:47,Threading,150,Nusrat Jahan,3.0,16
+2026-10-05,Customer 3,Farhana,12:12,12:53,Haircut,550,Nusrat Jahan,11.0,41
+2026-10-05,Customer 4,Lamia,13:21,14:32,Facial,1050,Nusrat Jahan,21.0,71
+2026-10-05,Customer 5,,14:22,,Pedicure,750,Nusrat Jahan,15.0,
+2026-10-05,Customer 6,Mousumi,15:13,15:39,Threading,180,Tania Rahman,3.6,26
+2026-10-05,Customer 7,Sharmin,16:05,17:33,Party Makeup,3400,Tania Rahman,68.0,88
+2026-10-06,Customer 1,Nafisa,10:38,,Hair Color,3900,Nusrat Jahan,78.0,
+2026-10-06,Customer 2,Maliha,11:29,,Hair Spa,2150,Tania Rahman,43.0,
+2026-10-06,Customer 3,,12:22,,Haircut,400,Nusrat Jahan,8.0,
+2026-10-06,Customer 4,Jannat,13:01,,Haircut,450,Sumaiya Akter,9.0,
+2026-10-06,Customer 5,Jannat,13:48,15:42,Hair Color,2800,Nusrat Jahan,56.0,114
+2026-10-06,Customer 6,,14:27,14:44,Threading,150,Tania Rahman,3.0,17
+2026-10-06,Customer 7,Farhana,15:37,16:50,Facial,1950,Nusrat Jahan,39.0,73
+2026-10-06,Customer 8,Rubina,16:41,17:25,Haircut,750,Rima Khatun,15.0,44
+2026-10-06,Customer 9,Shapla,17:29,18:26,Facial,1200,Sumaiya Akter,24.0,57
+2026-10-06,Customer 10,Lamia,18:16,19:59,Hair Color,2300,Tania Rahman,46.0,103
+2026-10-07,Customer 1,Mousumi,10:46,12:34,Hair Color,3800,Rima Khatun,76.0,108
+2026-10-07,Customer 2,Maliha,11:34,12:36,Pedicure,700,Sumaiya Akter,14.0,62
+2026-10-07,Customer 3,Jannat,12:42,,Hair Spa,1550,Tania Rahman,31.0,
+2026-10-07,Customer 4,Nafisa,13:40,14:31,Manicure,850,Sumaiya Akter,17.0,51
+2026-10-07,Customer 5,,14:16,15:01,Pedicure,900,Nusrat Jahan,18.0,45
+2026-10-07,Customer 6,Sonia,15:13,,Slimming Massage,1850,Nusrat Jahan,37.0,
+2026-10-07,Customer 7,Poly,16:10,16:24,Threading,90,Nusrat Jahan,1.8,14
+2026-10-07,Customer 8,Sharmin,17:15,17:29,Threading,200,Nusrat Jahan,4.0,14
+2026-10-08,Customer 1,Nafisa,11:00,12:04,Facial,1900,Nusrat Jahan,38.0,64
+2026-10-08,Customer 2,Priya,11:48,12:28,Haircut,600,Nusrat Jahan,12.0,40
+2026-10-08,Customer 3,Shapla,12:24,13:49,Party Makeup,4200,Nusrat Jahan,84.0,85
+2026-10-08,Customer 4,Rubina,13:20,14:03,Manicure,850,Sumaiya Akter,17.0,43
+2026-10-08,Customer 5,Rubina,14:13,15:25,Facial,1800,Sumaiya Akter,36.0,72
+2026-10-08,Customer 6,Ritu,15:10,16:06,Pedicure,600,Sumaiya Akter,12.0,56
+2026-10-08,Customer 7,Jui,16:00,,Manicure,850,Tania Rahman,17.0,
+2026-10-08,Customer 8,Bithi,17:05,17:30,Threading,80,Tania Rahman,1.6,25
+2026-10-08,Customer 9,Farhana,17:50,18:46,Slimming Massage,2350,Rima Khatun,47.0,56
+2026-10-08,Customer 10,Shirin,18:46,19:08,Threading,130,Nusrat Jahan,2.6,22
+2026-10-08,Customer 11,,19:41,20:53,Party Makeup,4300,Nusrat Jahan,86.0,72
+2026-10-09,Customer 1,Maliha,10:45,11:54,Facial,1200,Sumaiya Akter,24.0,69
+2026-10-09,Customer 2,Poly,11:38,,Threading,120,Rima Khatun,2.4,
+2026-10-09,Customer 3,,12:03,12:40,Manicure,550,Rima Khatun,11.0,37
